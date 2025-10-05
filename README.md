@@ -75,7 +75,7 @@ git init
 git add .
 git commit -m "feat: analisador de vendas inicial"
 git branch -M main
-git remote add origin git@github.com:SEU_USUARIO/sales-analyzer-python.git
+git remote add origin https://github.com/tiagolm16/Analisador-de-Dados-de-Vendas-Python
 git push -u origin main
 ```
 
