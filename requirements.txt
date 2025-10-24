@@ -1,1 +1,1 @@
-pandas>=2.0.0
+# Este projeto usa apenas a biblioteca padrão do Python :)
